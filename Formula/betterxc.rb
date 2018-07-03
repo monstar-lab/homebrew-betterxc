@@ -1,7 +1,7 @@
 class Betterxc < Formula
   desc "Regenerate Xcode project and add optional SwiftLint/Sourcery integrations"
-  url "https://github.com/monstar-lab/BetterXC/archive/0.9.2.tar.gz"
-  sha256 "9e4f7ae9800ce70aa354f7538d2847aaaeb7d4fb88b2db2b0722df0a7e104ab5"
+  url "https://github.com/monstar-lab/BetterXC/archive/0.9.3.tar.gz"
+  sha256 "f042d9520fb7cbb9c590f600114880f1744f76159f5b93e76b68f2c7f360f3e4"
   head "https://github.com/monstar-lab/betterxc"
 
   depends_on :xcode => ["9.3", :build]
